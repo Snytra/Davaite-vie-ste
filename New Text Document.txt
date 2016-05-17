@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 
 Andrey Mezov
+=======
+Dimitar Georgiev
+<<<<<<< HEAD
+Vlad
+Lyubomir Ganchev
+
+Martin Lachev
+Vlad
+
+>>>>>>> origin/master
 
