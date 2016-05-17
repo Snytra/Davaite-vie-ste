@@ -1,11 +1,17 @@
 Andrey Mezov
 Dimitar Georgiev
+<<<<<<< HEAD
 Rosi
 Martin Lachev
 Vlad
+=======
+>>>>>>> origin/master
 Vlad
 Lyubomir Ganchev
 Martin Lachev
 Vlad
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
